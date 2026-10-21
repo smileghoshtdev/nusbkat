@@ -2,7 +2,7 @@ import axios from 'axios';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Configuration
-const API_BASE_URL = process.env.API_URL || 'http://your-server.com';
+const API_BASE_URL = process.env.API_URL || 'http://nusbk.online';
 const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes
 const RETRY_ATTEMPTS = 3;
 const RETRY_DELAY = 1000;
