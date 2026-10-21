@@ -190,7 +190,8 @@ const Login = () => {
           </form>
           
           <div className="login-footer">
-            <p>Don't have an account? <a href="#">Contact Admin</a></p>
+        // NAYA
+<p>Don't have an account? <button type="button" className="link-btn">Contact Admin</button></p>
           </div>
         </div>
       </div>
