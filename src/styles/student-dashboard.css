@@ -1,0 +1,50 @@
+/* Student Dashboard Styles */
+.student-wrapper {
+  min-height: 100vh;
+  background: var(--bg-secondary);
+}
+
+.student-header {
+  background: var(--bg-primary);
+  border-bottom: 1px solid var(--border-color);
+  padding: 20px;
+  box-shadow: var(--shadow);
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.header-content h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.student-main {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
+
+.page-container {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 30px;
+  min-height: calc(100vh - 200px);
+}
+
+.page-container h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.page-container p {
+  color: var(--text-secondary);
+}
