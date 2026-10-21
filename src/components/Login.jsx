@@ -173,9 +173,10 @@ const Login = () => {
                 <span className="checkmark"></span>
                 Remember Me
               </label>
-              <a href="#" className="forgot-password" onClick={(e) => e.preventDefault()}>
-                Forgot Password?
-              </a>
+              // NAYA
+              <button type="button" className="forgot-password">
+  Forgot Password?
+              </button>
             </div>
 
             <button
