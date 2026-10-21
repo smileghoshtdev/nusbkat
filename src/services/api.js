@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://nusbk.online/API';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://nusbk.online/API';
 
 // Create axios instance with config
 const apiClient = axios.create({
