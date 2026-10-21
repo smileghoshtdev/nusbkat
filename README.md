@@ -1,10 +1,10 @@
-# 📱 EduTracko React Native - Student Attendance Management System
+# 📱  ᱱᱚᱦᱟᱸ ᱩᱢᱩᱞ ᱥᱮᱪᱮᱫ ᱵᱤᱨᱫᱟ.ᱜᱟᱲ React Native - Student Attendance Management System
 
 A modern, high-performance React Native mobile application for managing student attendance with **intelligent caching**, **offline-first architecture**, and **minimal cloud token usage**.
 
 ## 🎯 Project Overview
 
-**EduTracko** is a conversion of the original PHP-based student attendance system into a cross-platform React Native application that works on:
+**ᱱᱚᱦᱟᱸ ᱩᱢᱩᱞ ᱥᱮᱪᱮᱫ ᱵᱤᱨᱫᱟ.ᱜᱟᱲ** is a conversion of the original PHP-based student attendance system into a cross-platform React Native application that works on:
 - 📱 **Android** (Native)
 - 🍎 **iOS** (Native)
 - 🌐 **Web** (Responsive)
@@ -404,14 +404,14 @@ Create an issue with:
 
 ## 📜 License
 
-EduTracko © 2024 - Student Management System
+ᱱᱚᱦᱟᱸ ᱩᱢᱩᱞ ᱥᱮᱪᱮᱫ ᱵᱤᱨᱫᱟ.ᱜᱟᱲ © 2026 - Student Management System
 All Rights Reserved
 
 ---
 
 ## 🙏 Credits
 
-- **Original System**: PHP/HTML EduTracko
+- **Original System**: PHP/HTML ᱱᱚᱦᱟᱸ ᱩᱢᱩᱞ ᱥᱮᱪᱮᱫ ᱵᱤᱨᱫᱟ.ᱜᱟᱲ
 - **React Native Conversion**: 2024
 - **Framework**: React Native + Expo
 - **State Management**: Context API
@@ -449,7 +449,7 @@ npm start
 ---
 
 **Version:** 1.0.0  
-**Last Updated:** 2024  
+**Last Updated:** 2026  
 **Status:** Production Ready ✅
 
 **Made with ❤️ for efficient student attendance management**
